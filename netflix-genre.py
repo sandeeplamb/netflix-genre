@@ -1,8 +1,8 @@
 #!/usr/bin/env python3.7
 # coding: utf-8
 """
-    Generat Bull-Shit for your Manager
-    Handy tool to save your time to innovate
+    Generate Netflix Genre
+    Handy tool to save your time to choose movie genre
 """
 
 
@@ -11,7 +11,7 @@ import sys
 
 def select_genre_word(filename):
     """
-    Select Random Word from File
+    Select Random Genre from File
     """
     with open(filename, 'r') as fname:
         return random.choice(fname.readlines()).replace('\n', '')
