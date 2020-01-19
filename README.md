@@ -1,7 +1,5 @@
 # netflix-genre
 
-netflix-genre
-
 I wrote this program to choose Netflix Movie Genre for us to watch.
 
 To avoid fight which Genre to watch.
