@@ -4,7 +4,7 @@ netflix-genre
 
 I wrote this program to choose Netflix Movie Genre for us to watch.
 
-Me and wife always fight which Genre to watch.
+To avoid fight which Genre to watch.
 
 This program helps us to reduce the blast radius of our fight.
 
